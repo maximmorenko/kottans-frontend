@@ -16,4 +16,4 @@
 ## Responsive Web Design
 
 ![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_responsive_web_design/img/flex1.jpg)
-![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_responsive_web_design/img/grid1.jpg)
+![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_responsive_web_design/img/grid2.jpg)
