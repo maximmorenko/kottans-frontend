@@ -11,3 +11,9 @@
 ## Intro to HTML and CSS
 
 ![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_html_css_intro/html_css.jpg)
+
+
+## Responsive Web Design
+
+![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_html_css_intro/img/flex1.jpg)
+![](https://github.com/maximmorenko/kottans-frontend/blob/master/task_html_css_intro/img/grid1.jpg)
