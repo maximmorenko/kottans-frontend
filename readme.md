@@ -21,3 +21,7 @@
 ## [popup demo](https://maximmorenko.github.io/kottans-frontend)
 
 ## [ссылка на репозиторий](https://github.com/maximmorenko/kottans-frontend)
+
+## JS Basics
+
+
