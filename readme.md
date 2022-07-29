@@ -32,3 +32,16 @@
 ![](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/task_js_basics/05.jpg)
 ![](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/task_js_basics/06.jpg)
 
+## DOM
+
+## [DOM_demo](https://maximmorenko.github.io/kottans-frontend-dom)
+
+![Algorithms](https://github.com/maximmorenko/kottans-frontend-dom/blob/master/assets/task_js_dom/Algorithms.jpg)
+
+## Object Oriented JS
+
+## [OOP_Tiny_World demo](https://maximmorenko.github.io/OOP-tiny-JS-world-master)
+
+## [OOP_Tiny_World repo](https://github.com/maximmorenko/OOP-tiny-JS-world-master)
+
+![codewars](https://www.codewars.com/users/maxim_morenko)
