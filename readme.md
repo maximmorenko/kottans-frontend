@@ -44,4 +44,6 @@
 
 ## [OOP_Tiny_World repo](https://github.com/maximmorenko/OOP-tiny-JS-world-master)
 
-![codewars](https://www.codewars.com/users/maxim_morenko)
+## [codewars](https://www.codewars.com/users/maxim_morenko)
+
+## ![codewars](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/OOP/clan.jpg)
