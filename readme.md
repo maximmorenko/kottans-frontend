@@ -38,12 +38,44 @@
 
 ![Algorithms](https://github.com/maximmorenko/kottans-frontend-dom/blob/master/assets/task_js_dom/Algorithms.jpg)
 
+
+
+## Building a Tiny JS World
+
+## [Tiny JS World demo](https://maximmorenko.github.io/building-a-tiny-js-world-master)
+
+## [Tiny JS World repo](https://github.com/maximmorenko/building-a-tiny-js-world-master)
+
+
+
 ## Object Oriented JS
+
+## ![OOP](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/OOP/oop.jpg)
+
+## [codewars](https://www.codewars.com/users/maxim_morenko)
+
+## ![codewars](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/OOP/clan.jpg)
+
+
+
+## OOP exercise
 
 ## [OOP_Tiny_World demo](https://maximmorenko.github.io/OOP-tiny-JS-world-master)
 
 ## [OOP_Tiny_World repo](https://github.com/maximmorenko/OOP-tiny-JS-world-master)
 
-## [codewars](https://www.codewars.com/users/maxim_morenko)
 
-## ![codewars](https://github.com/maximmorenko/kottans-frontend/blob/master/assets/OOP/clan.jpg)
+
+## Offline Web Applications (optional)
+
+
+
+## Memory – Pair Game
+
+
+
+## Website Performance Optimization (optional)
+
+
+
+## Friends App
